@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajahwu
 - 👀 I’m interested in becoming a programmer
-- 🌱 I’m currently learning HTML, CSS, and JavaScript for Web Design and Development
+- 🌱 I’m currently learning Responsive Web Design
 - 💞️ I’m looking to collaborate on Web Design and Development Projects
 - 📫 You can reach me on instagram @ the_rajah_wu
 
