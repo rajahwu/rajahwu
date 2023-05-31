@@ -14,8 +14,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 Studied at 💞️ App Accademy
+
+## Projects
+
+### [The Comic Stand Club](https://the-comic-stand-club.onrender.com/)
+
+[live](https://the-comic-stand-club.onrender.com/) | [github](https://github.com/rajahwu/the_comic_stand_club)
+
+![The Comic Stand Club](./assets/comic_stand_club.png)
+
+### [Hey, I Wanna Do That](https://meetup-clone-yhrq.onrender.com)
+
+[live](https://meetup-clone-yhrq.onrender.com) | [gitgub](https://github.com/rajahwu/meetup_clone)
+
+![Hey, I Wanna Do That](./assets/hiwdt.png)
 
 ## About Me
 
