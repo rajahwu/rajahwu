@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @rajahwu, 👀 a programmer 🌱 currently studying at 💞️ App Appaccademy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&row=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-<!---
-rajahwu/rajahwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Vincent Radford 👀
+
+✨ @rajahwu ✨
+
+## 🌐 Web Developer | 🚀 Software Engineer | 🤖 Tech Enthusiast
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+Studied at 💞️ App Accademy
+
+## About Me
+
+---
+
+Ever since I discovered the world of coding, I realized that I had always been in love with it. It was a revelation that came to me once I found the tools and resources to learn programming. The moment I started delving into coding, I felt a deep sense of fulfillment and excitement that I had been missing all along.
+
+One of my favorite projects that truly captured my passion for coding was Catsagarm 2. I initially built this app using vanilla JavaScript, but later, I decided to take it a step further. I upgraded the project by incorporating jQuery and TypeScript. Witnessing the progress and growth I experienced as a developer throughout this project was truly remarkable. It showcased to me just how far I could push myself and the incredible possibilities that coding offered.
+
+Currently, I am focused on sharpening my skills in TypeScript for JavaScript and exploring automation and testing using Python. These new skills not only expand my knowledge but also empower me to create more robust and efficient code. In the near future, I plan to dive into learning PHP to widen my language repertoire and explore new avenues in web development.
+
+Outside of coding, I have a passion for other creative endeavors. Drawing and doodling have always been a way for me to express myself visually and unleash my imagination. It's a wonderful outlet that allows me to relax and bring my ideas to life on paper. Additionally, I have a keen interest in audio production. Being able to combine my coding skills with music and sound design opens up exciting possibilities for me to create unique and immersive experiences.
+
+Coding has become an integral part of who I am, driving my curiosity and passion to constantly learn and explore new technologies. It provides me with the ultimate creative outlet and fuels my desire to solve problems and bring ideas to life. With each new project and skill I acquire, I am reminded of the infinite potential and growth that coding offers. It's a journey that I am deeply committed to, and I look forward to the endless possibilities that lie ahead.
+
