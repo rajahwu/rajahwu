@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vincent Radford 👀
+# 👋 Hi, I’m [Vincent Radford](https://rajahwu.github.io/) 👀
 
 ✨ @rajahwu ✨
 
