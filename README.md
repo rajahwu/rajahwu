@@ -18,7 +18,7 @@ Studied at 💞️ App Accademy
 
 ## Projects
 
-### [The Comic Stand Club](https://the-comic-stand-club.onrender.com/)
+### [The Comic Stand Club](https://the-comic-stand-club.onrender.com)
 
 [live](https://the-comic-stand-club.onrender.com/) | [github](https://github.com/rajahwu/the_comic_stand_club)
 
