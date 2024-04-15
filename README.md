@@ -9,8 +9,8 @@
 ⚛️ React | 🐍 Python | 🌐 HTML | 🎨 CSS | 📚 SQL | 🌲 Git | 🟢 Node.js
 
 ---
-<!-- 
-[![Rajahwu's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rajahwu&hide=stars,issues&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
+
+[![Rajahwu's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rajahwu&hide=stars,issues&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
