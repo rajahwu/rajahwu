@@ -29,7 +29,7 @@
 <div align="center">  
 <img align="left" height="200" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy"/>
 
-<img aligh="right" height="200"  src="https://github-readme-stats.vercel.app/api?username=rajahwu"/>
+<img aligh="right" height="200" src="https://github-readme-stats.vercel.app/api?username=rajahwu"/>
 </div>
 
 </div>
