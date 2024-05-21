@@ -1,4 +1,4 @@
-#  [[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Vincent+Radford+%F0%9F%91%80)](https://git.io/typing-svg)](https://rajahwu.github.io/) 👀
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Vincent+Radford+%F0%9F%91%80)](https://git.io/typing-svg)
 
 ✨ @rajahwu ✨
 
