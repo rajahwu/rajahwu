@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.vercel.app?page_id=https://github.com/rajahwu" />
+
+
 # 👋 Hi, I’m [Vincent Radford](https://rajahwu.github.io/) 👀
 
 ✨ @rajahwu ✨
