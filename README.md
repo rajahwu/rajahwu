@@ -14,14 +14,16 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajahwu)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+gi
 Studied at 💞️ App Accademy
 
 ## Projects
 
 ### Current Project
 
-#### [Arithmetic Trainer]()
+#### [Arithmetic Trainer](https://github.com/rajahwu/arithmetic-trainer)
+
+![arithmetic trainer](./assets/arithmetic_trainer.png)
 
 ### [The Comic Stand Club](https://the-comic-stand-club.onrender.com)
 
