@@ -17,21 +17,18 @@
 </div>
 
 ---
-
 <div align="center">
-    ⚛️ React | 🐍 Python | 🌐 HTML | 🎨 CSS | 📚 SQL | 🌲 Git | 🟢 Node.js
-</div>
 
+    ⚛️ React | 🐍 Python | 🌐 HTML | 🎨 CSS | 📚 SQL | 🌲 Git | 🟢 Node.js
+    
+</div>
 ---
 
 <div>
-
-<div align="center">  
-<img align="left" height="200" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy"/>
-
-<img aligh="right" height="200" src="https://github-readme-stats.vercel.app/api?username=rajahwu"/>
-</div>
-
+  <div align="center">
+    <img align="left" height="200" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice&row=2&column=4)](https://github.com ryo-ma/  github-profile-trophy"/>
+    <img aligh="right" height="200" src="https://github-readme-stats.vercel.app/api?username=rajahwu"/>
+  </div>
 </div>
 
 Studied at App Accademy
@@ -69,4 +66,3 @@ Currently, I am focused on sharpening my skills in TypeScript for JavaScript and
 Outside of coding, I have a passion for other creative endeavors. Drawing and doodling have always been a way for me to express myself visually and unleash my imagination. It's a wonderful outlet that allows me to relax and bring my ideas to life on paper. Additionally, I have a keen interest in audio production. Being able to combine my coding skills with music and sound design opens up exciting possibilities for me to create unique and immersive experiences.
 
 Coding has become an integral part of who I am, driving my curiosity and passion to constantly learn and explore new technologies. It provides me with the ultimate creative outlet and fuels my desire to solve problems and bring ideas to life. With each new project and skill I acquire, I am reminded of the infinite potential and growth that coding offers. It's a journey that I am deeply committed to, and I look forward to the endless possibilities that lie ahead.
-
