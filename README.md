@@ -2,7 +2,7 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=2000&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Vincent+Radford+%F0%9F%91%80" alt="Typing SVG" /></a></h1>
 </section>
 
-<section id="contact" align="center">
+<section id="contacts" align="center">
 <div align="center">
 <a href="mailto:vmradford@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
