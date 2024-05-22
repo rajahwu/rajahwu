@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>
+
 <!-- 
 <div align="center">
 <a href="https://skillicons.dev">
@@ -16,7 +17,7 @@
 </a>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,astro,aws,babel,bash,bun,docker,flask,git,github,jquery&perline=6">
     <br>
@@ -24,5 +25,35 @@
     <br>
     <img src="https://skillicons.dev/icons?i=sqlite,supabase,sequelize,tailwind,ts,vercel,vite,vscode&perline=6">
   </a>
-</div>
+</div> -->
+
+<section align="center">
+<a href="https://skillicons.dev">
+<figure>
+<figcaption>Frontend Technologies</figcaption>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux">
+</figure>
+<br>
+<figure>
+<figcaption>Backend and Databases</figcaption>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,postgres,mysql,sqlite">
+</figure>
+<br>
+<figure>
+<figcaption>Other Languages and Frameworks</figcaption>
+<img src="https://skillicons.dev/icons?i=php,laravel,flask,py,babel,bash">
+</figure>
+<br>
+<figure>
+<figcaption>Tools and Services</figcaption>
+<img src="https://skillicons.dev/icons?i=git,github,linux,netlify,vercel,aws">
+</figure>
+<br>
+<figure>
+<figcaption>Miscellaneous Tools and Libraries</figcaption>
+<img src="vscode,postman,sequelize,tailwind,vite,astro">
+</figure>
+<br>
+</a>
+</section>
 
