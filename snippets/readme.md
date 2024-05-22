@@ -35,27 +35,35 @@
 </h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux">
 </figure>
-<br>
+<hr>
 <figure>
+<h2>
 <figcaption>Backend and Databases</figcaption>
+</h2>
 <img src="https://skillicons.dev/icons?i=nodejs,express,docker,postgres,mysql,sqlite">
 </figure>
-<br>
+<hr>
 <figure>
+<h2>
 <figcaption>Other Languages and Frameworks</figcaption>
+</h2>
 <img src="https://skillicons.dev/icons?i=php,laravel,flask,py,babel,bash">
 </figure>
-<br>
+<hr>
 <figure>
+<h2>
 <figcaption>Tools and Services</figcaption>
+</h2>
 <img src="https://skillicons.dev/icons?i=git,github,linux,netlify,vercel,aws">
 </figure>
-<br>
+<hr>
 <figure>
+<h2>
 <figcaption>Miscellaneous Tools and Libraries</figcaption>
+</h2>
 <img src="https://skillicons.dev/icons?i=vscode,postman,sequelize,tailwind,vite,astro">
 </figure>
-<br>
+<hr>
 </a>
 </section>
 
