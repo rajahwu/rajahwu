@@ -1,42 +1,83 @@
-<div align="center">
+<section id="top" align="center">
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=2000&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Vincent+Radford+%F0%9F%91%80" alt="Typing SVG" /></a></h1>
-</div>
+</section>
 
+<section id="contact" align="center">
 <div align="center">
+<a href="mailto:vmradford@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vincent-radford-1a9599173/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://rajahwu.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+</div>
 <h2>
 ✨
 <a href="https://rajahwu.github.io/">@rajahwu</a>
 ✨
 </h2>
-</div>
+</section>
 
-<div align="center">
+<section id="titles" align="center">
 <h2>
 
 🌐 Web Developer | 🚀 Software Engineer | 🤖 Tech Enthusiast
 
 </h2>
-</div>
+</section>
 
 ---
 
-<div align="center">
-
-⚛️ React | 🐍 Python | 🌐 HTML | 🎨 CSS | 📚 SQL | 🌲 Git | 🟢 Node.js
-
-</div>
+<section id="skills" align="center">
+<figure>
+<h2>
+<figcaption>Frontend Technologies</figcaption>
+</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux">
+</figure>
+<hr>
+<figure>
+<h2>
+<figcaption>Backend and Databases</figcaption>
+</h2>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,postgres,mysql,sqlite">
+</figure>
+<hr>
+<figure>
+<h2>
+<figcaption>Other Languages and Frameworks</figcaption>
+</h2>
+<img src="https://skillicons.dev/icons?i=php,laravel,flask,py,babel,bash">
+</figure>
+<hr>
+<figure>
+<h2>
+<figcaption>Tools and Services</figcaption>
+</h2>
+<img src="https://skillicons.dev/icons?i=git,github,linux,netlify,vercel,aws">
+</figure>
+<hr>
+<figure>
+<h2>
+<figcaption>Miscellaneous Tools and Libraries</figcaption>
+</h2>
+<img src="https://skillicons.dev/icons?i=vscode,postman,sequelize,tailwind,vite,astro">
+</figure>
+<hr>
+</section>
 
 ---
 
-
-<div align="center">
+<section id="stats" align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&apprentice&row=2&column=4)](https://github.com/ryo-ma/github-rajahwu-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajahwu&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
+</section>
 
 Studied at App Accademy
 
