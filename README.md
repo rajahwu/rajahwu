@@ -73,6 +73,7 @@
 
 <section id="stats" align="center">
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&apprentice&row=2&column=4)](https://github.com/ryo-ma/github-rajahwu-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajahwu&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
