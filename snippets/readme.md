@@ -27,7 +27,7 @@
   </a>
 </div> -->
 
-<section align="center">
+<section align="center" style="background: #ffe7e8; boarder: 2px solid black;">
 <a href="https://skillicons.dev">
 <figure>
 <figcaption>Frontend Technologies</figcaption>
@@ -51,7 +51,7 @@
 <br>
 <figure>
 <figcaption>Miscellaneous Tools and Libraries</figcaption>
-<img src="vscode,postman,sequelize,tailwind,vite,astro">
+<img src="https://skillicons.dev/icons?i=vscode,postman,sequelize,tailwind,vite,astro">
 </figure>
 <br>
 </a>
