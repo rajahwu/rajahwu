@@ -28,7 +28,6 @@
 </div> -->
 
 <section align="center">
-<a href="https://skillicons.dev">
 <figure>
 <h2>
 <figcaption>Frontend Technologies</figcaption>
@@ -64,6 +63,5 @@
 <img src="https://skillicons.dev/icons?i=vscode,postman,sequelize,tailwind,vite,astro">
 </figure>
 <hr>
-</a>
 </section>
 
