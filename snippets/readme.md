@@ -27,10 +27,12 @@
   </a>
 </div> -->
 
-<section align="center" style="background: #ffe7e8; boarder: 2px solid black;">
+<section align="center">
 <a href="https://skillicons.dev">
-<figcaption>Frontend Technologies</figcaption>
 <figure>
+<h2>
+<figcaption>Frontend Technologies</figcaption>
+</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux">
 </figure>
 <br>
