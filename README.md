@@ -1,22 +1,12 @@
 <div align="center">
-<h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=2000&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Vincent+Radford+%F0%9F%91%80" alt="Typing SVG" /></a>
-</h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=2000&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Vincent+Radford+%F0%9F%91%80" alt="Typing SVG" /></a></h1>
 </div>
 
 <div align="center">
 <h2>
-<span>
-
 ✨
-
-</span>
 <a href="https://rajahwu.github.io/">@rajahwu</a>
-<span>
-
 ✨
-
-</span>
 </h2>
 </div>
 
@@ -38,12 +28,15 @@
 
 ---
 
-<div>
+
 <div align="center">
-<img align="left" height="200" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice&row=2&column=4)](https://github.com ryo-ma/  github-profile-trophy"/>
-<img aligh="right" height="200" src="https://github-readme-stats.vercel.app/api?username=rajahwu"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&apprentice&row=2&column=4)](https://github.com/ryo-ma/github-rajahwu-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajahwu&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-</div>
+
 
 Studied at App Accademy
 
