@@ -29,8 +29,8 @@
 
 <section align="center" style="background: #ffe7e8; boarder: 2px solid black;">
 <a href="https://skillicons.dev">
-<figure>
 <figcaption>Frontend Technologies</figcaption>
+<figure>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux">
 </figure>
 <br>
