@@ -69,8 +69,6 @@
 <hr>
 </section>
 
----
-
 <section id="stats" align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&apprentice&row=2&column=4)](https://github.com/ryo-ma/github-rajahwu-trophy)
@@ -79,6 +77,13 @@
 
 </section>
 
+---
+
+<section id="contribution-snake" align="center">
+<img src="./dist/ocean.gif">
+</section>
+
+---
 Studied at App Accademy
 
 ## Projects
