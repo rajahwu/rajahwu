@@ -3,7 +3,6 @@
 </section>
 
 <section id="contacts" align="center">
-<div align="center">
 <a href="mailto:vmradford@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -13,12 +12,6 @@
 <a href="https://rajahwu.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-</div>
-<h2>
-✨
-<a href="https://rajahwu.github.io/">@rajahwu</a>
-✨
-</h2>
 </section>
 
 <section id="titles" align="center">
