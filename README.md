@@ -85,7 +85,6 @@
 </section>
 
 ---
-Studied at App Accademy
 
 ## Projects
 
