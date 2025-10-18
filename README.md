@@ -30,3 +30,7 @@ Currently exploring **Gemini + Firebase** for training apps and **token pipeline
 ## 🌐 Connect
 - [GitHub Projects](https://github.com/rajahwu)  
 - [Firebase Experiments](#) (coming soon)  
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](github-snake-dark.svg#gh-dark-mode-only)
+

@@ -1,0 +1,15 @@
+# <type>(<scope>): <short summary>
+#
+# Body (optional): Explain the *why* behind the change, not just the what.
+# Keep it concise but meaningful—like a logbook entry.
+#
+# Footer (optional): Reference issues, PRs, or notes for future you.
+
+# Types:
+#   feat     – new feature
+#   fix      – bug fix
+#   docs     – documentation only
+#   style    – formatting, no code change
+#   refactor – code change that isn’t a feature or fix
+#   test     – adding or updating tests
+#   chore    – maintenance tasks

@@ -1,29 +1,20 @@
 name: Generate Snake
 
-# Controls when the workflow will run
 on:
   schedule:
     - cron: "0 0,12 * * *" # Runs at midnight and noon UTC every day
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # <— critical for pushing changes
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-    
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         with:
@@ -38,18 +29,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Pull latest changes
-        run: git pull origin main
-
       - name: Copy generated files to root
-        run: |
-          cp -r dist/* .
+        run: cp -r dist/* .
 
       - name: Commit and push changes
         run: |
           git add .
-          git commit -m "Update snake animations"
+          git diff --quiet && echo "No changes to commit" || git commit -m "chore: update snake animations"
           git push origin main
-
-      - name: Show build status
-        run: git status
